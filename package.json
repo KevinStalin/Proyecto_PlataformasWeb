@@ -1,0 +1,24 @@
+{
+  "name": "proye_pw_ib",
+  "version": "1.0.0",
+  "description": "Proyecto primer bimestre plataformas web",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojimenezl/ProyectoPrimerParcialPW.git"
+  },
+  "author": "Nicolas Carrasco, Wendy Juma, Oscar Jimenez, Santiago Quisupangui, Kevin Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojimenezl/ProyectoPrimerParcialPW/issues"
+  },
+  "homepage": "https://github.com/ojimenezl/ProyectoPrimerParcialPW#readme"
+}
